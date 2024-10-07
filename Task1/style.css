@@ -11,3 +11,11 @@
     background-position: center;
     height: 100vh;
 }
+
+.scndmain {
+    padding: 10px 10px 0 10px;
+}
+
+.heading {
+    color: rgba(255,255,255,255);
+}
