@@ -19,3 +19,12 @@
 .heading {
     color: rgba(255,255,255,255);
 }
+
+.infosec {
+    width: 70vh;
+    margin-top: 10px;
+}
+
+.subheading {
+    color: rgba(255,255,255,255)
+}
